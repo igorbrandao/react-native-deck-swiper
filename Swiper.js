@@ -119,7 +119,6 @@ class Swiper extends Component {
     }
 
     this.customCardStyle = this.props.cardStyle
-    this.forceUpdate()
   }
 
   initializeCardStyle = () => {
